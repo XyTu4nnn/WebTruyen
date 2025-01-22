@@ -11,7 +11,7 @@ function AuthorSidebar() {
           alt="Admin Avatar"
           className="w-24 h-24 rounded-full mx-auto"
         />
-        <h2 className="text-xl font-bold mt-2">Author01</h2>
+        <h2 className="text-xl font-bold mt-2">Author01111</h2>
         <p className="text-sm text-gray-600">author01@gmail.com</p>
       </div>
 
